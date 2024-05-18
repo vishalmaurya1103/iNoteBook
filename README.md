@@ -21,4 +21,4 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run both`
 
-run both Backend and Fronend
+run both Backend and Frontend
